@@ -10,7 +10,9 @@
 ![](https://github-readme-stats.vercel.app/api?username=VishalRawatt&theme=codeSTACKr&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=VishalRawatt&theme=codeSTACKr&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VishalRawatt&theme=codeSTACKr&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-![TryHackMe badges](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4298205)
+## 🏅 TryHackMe Badges:
+![My TryHackMe badges](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4298205)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=VishalRawatt&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
