@@ -1,5 +1,18 @@
 # 💫 About Me:
-👋 Hey, I'm Vishal Rawat<br>🔐 Ethical Hacker | Cybersecurity Researcher | Web App Security Specialist<br><br>💻 Passionate about offensive security, penetration testing, and exploit development<br>🛡️ Expertise in Web Application Security, focusing on:<br>🕵️‍♂️ OWASP Top 10 (SQLi, XSS, XXE, SSRF, IDOR, etc.)<br>🎯 Bug Hunting & Vulnerability Assessment<br>🛠️ Metasploit, Burp Suite, Nmap, Kali Linux, Wireshark<br>🔎 Red Teaming & Network Security<br><br>📫 Reach me at: https://vishalrawat.netlify.app/
+## 👋 About Me
+
+I am a **Cybersecurity Analyst and Penetration Tester** focused on identifying, analyzing, and exploiting vulnerabilities in modern web applications and network infrastructures. My work combines **offensive security (penetration testing)** with **defensive security practices (SOC analysis)** to better understand attack techniques and strengthen system security.
+
+🔐 **Core Areas**
+- Web Application Penetration Testing
+- Network Penetration Testing
+- Vulnerability Assessment (OWASP Top 10)
+- Security Monitoring & Threat Detection
+- SIEM Analysis using Splunk
+
+⚡ I also build **AI-powered cybersecurity and automation projects** using tools like **n8n, Zapier, and ShellGPT** to streamline security workflows and enhance security research.
+
+📚 I continuously work on improving my skills in **penetration testing, security analysis, and AI-driven security automation** while contributing to cybersecurity research and projects. Reach me at: https://vishalrawat.netlify.app/
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vishal-rawat-22b788225/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vshalrawal@gmail.com) 
