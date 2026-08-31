@@ -12,7 +12,7 @@ I am a **Cybersecurity Analyst and Penetration Tester** focused on identifying, 
 
 ⚡ I also build **AI-powered cybersecurity and automation projects** using tools like **n8n, Zapier, and ShellGPT** to streamline security workflows and enhance security research.
 
-📚 I continuously work on improving my skills in **penetration testing, security analysis, and AI-driven security automation** while contributing to cybersecurity research and projects. Reach me at: https://vishalrawat.netlify.app/
+📚 I continuously work on improving my skills in **penetration testing, security analysis, and AI-driven security automation** while contributing to cybersecurity research and projects. Reach me at: https://vishal-rawat.vercel.app/
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vishal-rawat-22b788225/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vshalrawal@gmail.com) 
