@@ -1,33 +1,184 @@
-# 💫 About Me:
-## 👋 About Me
+# 👋 Hi, I'm Vishal Rawat
 
-I am a **Cybersecurity Analyst and Penetration Tester** focused on identifying, analyzing, and exploiting vulnerabilities in modern web applications and network infrastructures. My work combines **offensive security (penetration testing)** with **defensive security practices (SOC analysis)** to better understand attack techniques and strengthen system security.
+### 🛡️ Cybersecurity Analyst | Penetration Tester | Security Automation
 
-🔐 **Core Areas**
+I am a **Cybersecurity professional and Master's student** focused on **Offensive Security, Defensive Security, SOC Operations, Web Application Security, and Security Automation**.
+
+I enjoy understanding how real-world attacks work, identifying vulnerabilities, analyzing threats, and building defensive systems that help detect and respond to malicious activity.
+
+My background also includes **full-stack development and software engineering**, allowing me to approach security from both the **attacker and defender perspective**.
+
+---
+
+# 🔐 Cybersecurity
+
+### 🔴 Offensive Security
 - Web Application Penetration Testing
 - Network Penetration Testing
-- Vulnerability Assessment (OWASP Top 10)
-- Security Monitoring & Threat Detection
-- SIEM Analysis using Splunk
+- Vulnerability Assessment
+- OWASP Top 10
+- Reconnaissance & Enumeration
+- Exploitation & Privilege Escalation
+- Active Directory Security
+- API Security
+- Security Testing & Research
 
-⚡ I also build **AI-powered cybersecurity and automation projects** using tools like **n8n, Zapier, and ShellGPT** to streamline security workflows and enhance security research.
+### 🔵 Defensive Security
+- SOC Operations
+- Security Monitoring
+- Threat Detection
+- Threat Hunting
+- Incident Response
+- Log Analysis
+- IOC Investigation
+- Detection Engineering
+- Security Hardening
 
-📚 I continuously work on improving my skills in **penetration testing, security analysis, and AI-driven security automation** while contributing to cybersecurity research and projects. Reach me at: https://vishal-rawat.vercel.app/
+### 🟣 SIEM / SOAR / Security Operations
+- Splunk
+- Splunk SOAR
+- n8n
+- Security Automation
+- Alert Investigation
+- Automated Incident Response
+- Log Collection & Correlation
+- Detection Workflows
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vishal-rawat-22b788225/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vshalrawal@gmail.com) 
+### 🧰 Security Tools
 
-# 💻 Tech Stack:
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=VishalRawatt&theme=codeSTACKr&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=VishalRawatt&theme=codeSTACKr&hide_border=true)<br/>
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-004170?style=for-the-badge)
+![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![SQLmap](https://img.shields.io/badge/SQLmap-000000?style=for-the-badge)
+![FFUF](https://img.shields.io/badge/FFUF-000000?style=for-the-badge)
+![Gobuster](https://img.shields.io/badge/Gobuster-000000?style=for-the-badge)
+![Hydra](https://img.shields.io/badge/Hydra-000000?style=for-the-badge)
+![Hashcat](https://img.shields.io/badge/Hashcat-000000?style=for-the-badge)
+![John the Ripper](https://img.shields.io/badge/John%20the%20Ripper-000000?style=for-the-badge)
+![BloodHound](https://img.shields.io/badge/BloodHound-DC143C?style=for-the-badge)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+# 💻 Programming & Development
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+
+### Web Development
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Databases & APIs
+
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+---
+
+# ☁️ Cloud, Infrastructure & DevOps
+
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D42029?style=for-the-badge&logo=apache&logoColor=white)
+
+---
+
+# 🤖 Security Automation & AI
+
+I build automation-focused security projects combining **Cybersecurity, AI and orchestration**.
+
+- Security workflow automation with **n8n**
+- SIEM automation with **Splunk**
+- SOAR-based incident response workflows
+- Python-based security automation
+- AI-assisted security analysis
+- Automated malicious traffic detection
+- Security alert enrichment and response
+
+---
+
+# 🚀 Featured Areas
+
+### 🔥 Offensive Security
+Web & Network Pentesting • Reconnaissance • Exploitation • Vulnerability Research
+
+### 🛡️ Defensive Security
+SOC • SIEM • Threat Hunting • Detection Engineering • Incident Response
+
+### ⚙️ Security Engineering
+Security Automation • SOAR • Python • Infrastructure Security
+
+### 🌐 Software Engineering
+React • Node.js • Express • MongoDB • REST APIs
+
+---
+
+# 📜 Certifications & Achievements
+
+- 🎓 **B.Tech — Computer Science & Engineering (AIML)**
+- 🛡️ **Certified Ethical Hacker (CEH v13 AI)**
+- 🏆 **Best Research Paper Award — ICRTICC 2025**
+- 🏆 **Best Research Paper Award — Research Publication**
+- 📚 **Published multiple cybersecurity / technology research papers**
+- 🏴‍☠️ **TryHackMe — Top percentile**
+- 🧪 **100+ TryHackMe rooms completed**
+- 🏆 **Hackfest'24 — IIT (ISM) Dhanbad — Top 15**
+- 💡 **TechnoMania Ideation — 2023**
+
+---
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=VishalRawatt&theme=codeSTACKr&hide_border=true&include_all_commits=true&count_private=true)
+
+![](https://nirzak-streak-stats.vercel.app/?user=VishalRawatt&theme=codeSTACKr&hide_border=true)
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=VishalRawatt&theme=codeSTACKr&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
+---
+
+# 🏆 GitHub Trophies
+
 ![](https://github-profile-trophy.vercel.app/?username=VishalRawatt&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
+
+# 🌐 Connect With Me
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://vishal-rawat.vercel.app/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishal-rawat-22b788225/)
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vshalrawal@gmail.com)
+
+---
+
+### 👀 Visitors
+
 [![](https://visitcount.itsvg.in/api?id=VishalRawatt&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <img src="https://raw.githubusercontent.com/VishalRawatt/VishalRawatt/output/snake.svg" alt="Snake animation" />
