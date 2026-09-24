@@ -107,26 +107,6 @@ My software-development background allows me to approach security from both the 
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white)
 
-### Workflow
-
-`Logs`
-
-↓
-
-`Detection`
-
-↓
-
-`Alert`
-
-↓
-
-`Investigation`
-
-↓
-
-`Response`
-
 </td>
 
 <td width="33%" valign="top">
@@ -155,10 +135,6 @@ My software-development background allows me to approach security from both the 
 ![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 
-### Approach
-
-`Build` → `Automate` → `Detect` → `Harden`
-
 </td>
 
 </tr>
@@ -166,24 +142,42 @@ My software-development background allows me to approach security from both the 
 
 ---
 
-# ⚔️ Security Workflow
+# 🤖 AI & Automation
 
-<div align="center">
+<table>
+<tr>
 
-### 🔴 OFFENSIVE
-**Attack & Assess**
+<td width="50%" valign="top">
 
-⬇️
+### 🤖 Artificial Intelligence
 
-### 🟣 SECURITY ENGINEERING
-**Build & Automate**
+| Area | Technologies |
+|---|---|
+| AI-Assisted Security | AI Security Analysis |
+| Machine Learning | Classification & Detection |
+| Traffic Analysis | Malicious Traffic Detection |
+| Security Research | AI-assisted Research |
+| Automation | Intelligent Security Workflows |
 
-⬇️
+</td>
 
-### 🔵 DEFENSIVE
-**Detect & Defend**
+<td width="50%" valign="top">
 
-</div>
+### ⚙️ Security Automation
+
+| Area | Technologies |
+|---|---|
+| Workflow Automation | n8n |
+| SIEM Automation | Splunk |
+| SOAR | Splunk SOAR |
+| Scripting | Python / Shell |
+| Incident Response | Automated Response Workflows |
+| Alert Handling | Enrichment & Correlation |
+
+</td>
+
+</tr>
+</table>
 
 ---
 
@@ -238,143 +232,19 @@ My software-development background allows me to approach security from both the 
 
 ---
 
-# 🤖 AI & Security Automation
+# 🧪 Security Platforms
 
-I build automation-focused projects combining **Cybersecurity, AI, Python, SIEM and workflow orchestration**.
+<div align="center">
 
-### ⚙️ Automation
+<a href="https://tryhackme.com/p/VishalRawatt">
+<img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white" />
+</a>
 
-- Security workflow automation using **n8n**
-- SIEM automation using **Splunk**
-- SOAR-based incident response
-- Python-based security tooling
-- Automated alert enrichment
-- Automated incident response workflows
-- Log collection and correlation
-- Security monitoring automation
+<a href="https://app.hackthebox.com/profile/">
+<img src="https://img.shields.io/badge/Hack_The_Box-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" />
+</a>
 
-### 🧠 AI / ML
-
-- AI-assisted security analysis
-- ML-based malicious traffic detection
-- Decision Tree / Random Forest experimentation
-- Automated security classification
-- AI-assisted cybersecurity workflows
-
----
-
-# 🚀 Featured Projects
-
-## 🛡️ SOC & Security Automation Lab
-
-A practical security operations environment combining:
-
-- Splunk SIEM
-- Splunk SOAR
-- n8n
-- Windows & Linux endpoints
-- Attack simulation
-- Log collection
-- Detection engineering
-- Alert investigation
-- Automated response
-
-**Workflow:**
-
-`Attack` → `Logs` → `Splunk` → `Detection` → `n8n/SOAR` → `Response`
-
----
-
-## 🔎 Web & Network Security Lab
-
-Hands-on security testing using:
-
-- Burp Suite
-- Nmap
-- SQLmap
-- FFUF
-- Gobuster
-- Metasploit
-- Wireshark
-- Kali Linux
-
-Focused on understanding vulnerabilities, attack paths, exploitation and defensive implications.
-
----
-
-## 🤖 Malicious Traffic Detection
-
-Exploring machine-learning approaches for identifying suspicious network traffic.
-
-**Concept:**
-
-`Network Traffic` → `Feature Extraction` → `ML Model` → `Classification` → `Security Alert`
-
-Technologies include Python, machine learning and security monitoring workflows.
-
----
-
-## ☁️ Kubernetes Autoscaling
-
-Worked on an autoscaling image-classification inference service using:
-
-- Kubernetes
-- Minikube
-- FastAPI
-- Redis
-- Docker
-- Helm
-- Prometheus
-- Custom autoscaling logic
-
----
-
-## 🌐 Full-Stack Applications
-
-Built applications using:
-
-`React` + `Node.js` + `Express` + `MongoDB`
-
-with experience in REST APIs, authentication, databases and modern frontend development.
-
----
-
-# 📜 Certifications & Achievements
-
-| 🏆 | Achievement |
-|---|---|
-| 🛡️ | **Certified Ethical Hacker — CEH v13 AI** |
-| 🎓 | **B.Tech — Computer Science & Engineering (AIML)** |
-| 🏆 | **Best Research Paper Award — ICRTICC 2025** |
-| 📚 | **Published multiple research papers** |
-| 🧪 | **100+ TryHackMe Rooms Completed** |
-| 🏴‍☠️ | **TryHackMe — Top Percentile** |
-| 🏆 | **Hackfest'24 — IIT (ISM) Dhanbad — Top 15** |
-| 💡 | **TechnoMania Ideation — 2023** |
-
----
-
-# 📚 Security Learning
-
-### Platforms
-
-![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
-![HackTheBox](https://img.shields.io/badge/Hack%20The%20Box-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)
-
-### Areas
-
-- Web Application Security
-- Network Security
-- Active Directory
-- SOC Operations
-- SIEM
-- Threat Hunting
-- Incident Response
-- Privilege Escalation
-- Linux Security
-- Windows Security
-- Cloud Security
-- Security Automation
+</div>
 
 ---
 
